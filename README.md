@@ -1,7 +1,7 @@
 ### Hi, I'm Salik Jamal!
 
 
-- 🔭 I’m currently working on TypeScript and Next.js
+- 🔭 I’m currently working as a Full Stack Engineer.
 - 🌱 I’m currently learning Web3.
-- 👯 I’m looking to create solutions for your businesses.
+- 👯 I’m creating solutions for your businesses.
 - 📫 How to reach me: <iamsalikjamal@gmail.com>
