@@ -6,4 +6,4 @@
 - 👯 I’m creating solutions for your businesses.
 - 📫 How to reach me: 
 1. <iamsalikjamal@gmail.com>
-2. <a href="https://x.com/salikjamal20">X</a>
+2. <a href="https://x.com/salikjamal20">X: @salikjamal20</a>
